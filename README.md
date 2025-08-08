@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Abhi-tupe
-- 👀 I’m interested in ... web devlopment
-- 🌱 I’m currently learning ... python and javascript
-- 💞️ I’m looking to collaborate on ... my personal website creation
-- 📫 How to reach me ... contact me on mail
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in ... AIMl , Ai devlopment , Cybersecurity and Socket programming
+- 🌱 I’m currently learning ... Operating System
+- 💞️ I’m looking to collaborate on ... my personal website 
+- 📫 How to reach me ... contact me on mail ameansabhi2005@gmail.com
+
 
 <!---
 Abhi-tupe/Abhi-tupe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
